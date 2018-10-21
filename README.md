@@ -1,2 +1,2 @@
 # homework
-家传
+home
